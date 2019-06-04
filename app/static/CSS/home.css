@@ -1,0 +1,27 @@
+:root{
+    font-size: 15px;
+}
+body{
+    background-color: #C5D1EB;
+    color: #071013;
+}
+
+h1{
+ text-align: center;
+}
+form{
+    display: flex;
+    justify-content: center;
+}
+#items{
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    text-indent: 6px;
+}
+#button{
+    border-radius: 10px;
+    background-color: #4EFFEF;
+    border-color: #C5D1EB;
+    outline: none;
+}
